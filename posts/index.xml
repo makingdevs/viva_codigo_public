@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Viva Código</title>
-        <link>https://stellular-malasada-5a5370.netlify.app/posts/</link>
+        <link>https://blog.makingdevs.com/viva_codigo_public/posts/</link>
         <description>Recent content in Posts on Viva Código</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Tue, 07 Jul 2015 18:41:57 -0500</lastBuildDate>
-        <atom:link href="https://stellular-malasada-5a5370.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.makingdevs.com/viva_codigo_public/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>ViveCodigo – Amazon Web Services Con Fernando Maza Bizarro @Fer_Maza_B</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/amazon-web-services/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/amazon-web-services/</link>
             <pubDate>Tue, 07 Jul 2015 18:41:57 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/amazon-web-services/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/amazon-web-services/</guid>
             <description>Nuevamente sean bienvenidos a otra emisión de su podcast favorito vivecodigo.org. Esta vez contamos con la presencia de nuestro amigo Manuel Fernando Maza Bizarro - @Fer_Maza_B ingeniero en sistemas. quien nos platica de un tema muy interesante que es Amazon Web Services.
 Amazon Web Services (AWS abreviado) es una colección de servicios de computación en la nube (también llamados servicios web) que en conjunto forman una plataforma de computación en la nube, ofrecidas a través de Internet por Amazon.</description>
             <content type="html"><![CDATA[<h4>Nuevamente sean bienvenidos a otra emisión de su podcast favorito vivecodigo.org. </h4>
@@ -35,10 +35,10 @@ Amazon Web Services (AWS abreviado) es una colección de servicios de computaci�
         
         <item>
             <title>ViveCodigo - Workshop De VIm Con Felipe Juarez @Sohjiro</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/workshop/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/workshop/</link>
             <pubDate>Tue, 03 Mar 2015 16:58:23 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/workshop/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/workshop/</guid>
             <description>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org Workshop de VIm En esta ocasión Felipe Juarez @Sohjiro nos hablara de VIm, un editor hecho por programadores para programadores, para facilitar la programación, también nos dirá de los movimientos básicos y fundamentales para la manipulación, edición e inserción de texto así como moverse sobre los diferentes directorios, buffers y ventanas y la forma en que los entornos de desarrollo integrados, pueden editar el código fuente además llamar a un compilador externo e interpretar sus resultados.</description>
             <content type="html"><![CDATA[<h4>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org Workshop de VIm</h4>
 <blockquote>
@@ -62,10 +62,10 @@ Amazon Web Services (AWS abreviado) es una colección de servicios de computaci�
         
         <item>
             <title>Episodio 8 de la temporada 1 – Alfredo Chavez @alfredochv</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/episodio-8/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-8/</link>
             <pubDate>Sat, 28 Jun 2014 00:11:30 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/episodio-8/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-8/</guid>
             <description>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 8 de la temporada numero 1. En esta ocasión nos visita Alfredo Chavez - @alfredochv desarrollador de software con amplia experiencia. Nos hablo sobre un tema muy interesante la “profesionalización del desarrollor de software”.
 La profesión de desarrollo de software toma un nuevo carácter conforme el tiempo, nos hace reflexionar sobre algunos ámbitos que tenemos como desarrolladores de software y el camino que conllevar convertirse en uno.</description>
             <content type="html"><![CDATA[<h4>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 8 de la temporada numero 1.</h4>
@@ -90,10 +90,10 @@ Les hacemos la cordial invitación a que se</p>
         
         <item>
             <title> Episodio 7 de la temporada 1 – Sergio Díaz @sergiodnila</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/episodio-7/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-7/</link>
             <pubDate>Sat, 14 Jun 2014 20:00:34 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/episodio-7/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-7/</guid>
             <description>Bienvenidos sean, regresamos con ustedes después de las pasadas fiestas, iniciando un año nuevo con nuevas publicaciones y sorpresas para ustedes. Esta nueva emisión del podcast el episodio numero 7 de la temporada numero 1. En esta ocasión nos visita Sergio Díaz Nila - @sergiodnila programador experimentado en lenguajes funcionales y se encuentra desarrollando en la actualidad en Erlang.
 Nos hablo de los Sesgos Cognitovos, explorando la parte humana del desarrollo de software y nos platica porque le motivo el explorar este tema sin duda muy interesante, pues es algo que como desarrolladores pasamos desapercibidos, pero gracias a esta charla tomamos conciencia de nuestro razonamiento.</description>
             <content type="html"><![CDATA[<h4>Bienvenidos sean, regresamos con ustedes después de las  pasadas fiestas, iniciando un año nuevo con nuevas publicaciones y sorpresas para ustedes. Esta nueva emisión del podcast el episodio numero 7 de la temporada numero 1.</h4>
@@ -111,10 +111,10 @@ Nos hablo de los Sesgos Cognitovos, explorando la parte humana del desarrollo de
         
         <item>
             <title>Episodio 11 De La Temporada 1 – Hector Zarate @iOSCowboy.</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/episodio-11/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-11/</link>
             <pubDate>Wed, 26 Mar 2014 19:20:12 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/episodio-11/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-11/</guid>
             <description>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 11 de la temporada numero 1. En esta ocasión una entrevista remota desde Varsovia con nuestro amigo Hector Zarate - @iOSCowboy, quien nos platica su interesante trayectoria profesional como desarrollador de software, el cual se desempeña en el desarrollo de aplicaciones móviles y que se encuentra escribiendo un libro titulado “Guia de referencia para el desarrollo y distribución de aplicaciones en plataformas móviles”</description>
             <content type="html"><![CDATA[<h4>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 11 de la temporada numero 1.</h4>
 <p>En esta ocasión una entrevista remota desde Varsovia con nuestro amigo Hector Zarate - @iOSCowboy, quien nos platica su interesante trayectoria profesional como desarrollador de software, el cual se desempeña en el desarrollo de aplicaciones móviles y que se encuentra escribiendo un libro titulado “Guia de referencia para el desarrollo y distribución de aplicaciones en plataformas móviles”</p>
@@ -138,10 +138,10 @@ Nos hablo de los Sesgos Cognitovos, explorando la parte humana del desarrollo de
         
         <item>
             <title>Episodio 10 De La Temporada 1 – Hector Cuesta @hmcuesta</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/episodio-10/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-10/</link>
             <pubDate>Tue, 25 Feb 2014 19:43:45 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/episodio-10/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-10/</guid>
             <description>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 10 de la temporada numero 1. En esta ocasión tenemos con nosotros Hector Cuesta - @hmcuesta, que nos platico sobre su libro titulado “Practical Data Analysis”.
 Un tema muy interesante sobre el análisis de datos, dando un enfoque computacional, y sobre todo con una nueva vision del análisis de datos un poco mas particular para el desarrollo de proyectos.</description>
             <content type="html"><![CDATA[<h4>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 10 de la temporada numero 1.</h4>
@@ -170,10 +170,10 @@ Un tema muy interesante sobre el análisis de datos, dando un enfoque computacio
         
         <item>
             <title>Episodio 9 de la temporada 1 – Alcides Flores @alcidesfp</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/episodio-9/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-9/</link>
             <pubDate>Tue, 11 Feb 2014 20:00:34 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/episodio-9/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-9/</guid>
             <description>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 9 de la temporada numero 1. En esta ocasión tenemos con nosotros Alcides Flores - @alcidesfp, amigo y compañero que ya habíamos tenido el gusta de estar con el en algún #CodeRetreat en recursivo.org
 Alcides Flores programador con ya varios años de experiencia en el desarrollo de software, esta ocasión nos hablo sobre un herramienta en exceso interesante GNU Emacs.</description>
             <content type="html"><![CDATA[<h4>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org el episodio numero 9 de la temporada numero 1.</h4>
@@ -201,10 +201,10 @@ Alcides Flores programador con ya varios años de experiencia en el desarrollo d
         
         <item>
             <title>Episodio 6 De La Temporada 1 – Laurent Sansonetti - @lrz</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/episodio-6/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-6/</link>
             <pubDate>Mon, 09 Dec 2013 01:13:30 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/episodio-6/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-6/</guid>
             <description>Bienvenidos sean a esta nueva emisión del podcast el episodio numero 6 de la temporada numero 1. En esta ocasión tenemos el honor de entrevistar Laurent Sansonetti - @lrz quien nos hablo de RubyMotion - @RubyMotion.
 Laurent Sansonetti, es fundador de HipByte y desarrollador principal de RubyMotion. Trabajó en Apple durante 7 años como ingeniero senior de software, tanto en iLife y OS X. A trabajado con Ruby mucho tiempo, creó y mantiene el proyecto MacRuby.</description>
             <content type="html"><![CDATA[<h4>Bienvenidos sean a esta nueva emisión del podcast el episodio numero 6 de la temporada numero 1.</h4>
@@ -222,10 +222,10 @@ Laurent Sansonetti, es fundador de HipByte y desarrollador principal de RubyMoti
         
         <item>
             <title>Episodio 5 De La Temporada 1 – Coding Dojo (Codebreak)</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/episodio-5/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-5/</link>
             <pubDate>Mon, 28 Oct 2013 01:18:17 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/episodio-5/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-5/</guid>
             <description>Esta vez en la entrega de Vivecodigo les presentamos nuevamente un coding dojo, en el cual se desarrollo un juego llamada code breaker con algunos destacados invitados. La dinámica fue pasar una a uno para ir desarrollando el juego, el cual fue en base Test-driven development (TDD) por lo cual cada uno de los invitados pudo aportar elementos para el desarrollo de esta solución.
 Al concluir se platico sobre la dinámica y las dificultades que existieron, con lo cual pudieron realizar una retrospectiva de lo que mas les agrado y no de este coding dojo, en base a l esfuerzo y las ideas que apostaron cada uno de ellos.</description>
             <content type="html"><![CDATA[ <h4>Esta vez en la entrega de Vivecodigo les presentamos nuevamente un coding dojo, en el cual se desarrollo un juego llamada code breaker con algunos destacados invitados.</h4>
@@ -243,10 +243,10 @@ Al concluir se platico sobre la dinámica y las dificultades que existieron, con
         
         <item>
             <title>Episodio 4 de la temporada 1 – Erlang con Alvaro Videla - @old_sound</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/episodio-4/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-4/</link>
             <pubDate>Wed, 02 Oct 2013 01:26:49 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/episodio-4/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-4/</guid>
             <description>Bienvenidos sean a esta nueva emisión del podcast el episodio numero 4 de la temporada numero 1. Alvaro Videla (@old_sound) es un desarrollado uruguayo muy experimentado que esta actualmente esta trabajando en RabbitMQ y en RabbitMQ Simulator, además es el autor del libro de “RabbitMQ in action”; aprovechando su visita a México tuvimos la oportunidad de entrevistarlo para que nos hablará acerca de su trayectoria y también del lenguaje de programación Erlang.</description>
             <content type="html"><![CDATA[<h4>Bienvenidos sean a esta nueva emisión del podcast el episodio numero 4 de la temporada numero 1.</h4>
 <p>Alvaro Videla (@old_sound) es un desarrollado uruguayo muy experimentado que esta actualmente esta trabajando en RabbitMQ y en RabbitMQ Simulator, además es el autor del libro de “RabbitMQ in action”; aprovechando su visita a México tuvimos la oportunidad de entrevistarlo para que nos hablará acerca de su trayectoria y también del lenguaje de programación Erlang.</p>
@@ -265,10 +265,10 @@ Al concluir se platico sobre la dinámica y las dificultades que existieron, con
         
         <item>
             <title>Episodio 3 De La Temporada 1 – Desarrollo De Juegos en JoyBox Con @JuanKaram Y @mexinsane</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/episodio-3/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-3/</link>
             <pubDate>Wed, 25 Sep 2013 01:38:23 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/episodio-3/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-3/</guid>
             <description>Bienvenidos sean a esta nueva emisión del podcast el episodio numero 3 de la temporada numero 1. El desarrollo de videojuegos en México y en varias partes del mundo gracias a @juankaram y @mexinsane, ya que están desarrollando un engine para RubyMotion llamado JoyBox. En esta sesión nuestros invitados nos platican la experiencia de estar desarrollando un proyecto Open Source que permite desarrollar videojuegos de una forma más sencilla, rápida y sobre todo divertida.</description>
             <content type="html"><![CDATA[<h4>Bienvenidos sean a esta nueva emisión del podcast el episodio numero 3 de la temporada numero 1.</h4>
 <p>El desarrollo de videojuegos en México y en varias partes del mundo gracias a @juankaram y @mexinsane, ya que están desarrollando un engine para RubyMotion llamado JoyBox. En esta sesión nuestros invitados nos platican la experiencia de estar desarrollando un proyecto Open Source que permite desarrollar videojuegos de una forma más sencilla, rápida y sobre todo divertida. ¿Qué es lo que los motivo a crear este proyecto? ¿Es posible para muchos de nosotros crear juegos para iOS con Ruby? ¿Se puede tener una carrera como desarrollador de videojuegos?, sin duda, muchas preguntas serán resueltas en este podcast.</p>
@@ -286,10 +286,10 @@ Al concluir se platico sobre la dinámica y las dificultades que existieron, con
         
         <item>
             <title>Episodio 2 de la temporada 1 – Testing @chrix2</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/episodio-2/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-2/</link>
             <pubDate>Wed, 11 Sep 2013 01:52:08 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/episodio-2/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-2/</guid>
             <description>Bienvenidos sean a esta nueva emisión del podcast el episodio numero 2 de la temporada numero 1. En esta ocasión un amigo ya conocido Christian Ramírez - @chrix2 Nos viene a platicar de su experiencia personal y la relación que encuentra entre desarrollar software y la apreciación artística. Esta platica circula por ámbitos meramente comunes para las bellas artes y las analogías que podemos hacer con la creación de las pruebas, la apreciación de las mismas, e incluso la observación sobre los sistemas legados.</description>
             <content type="html"><![CDATA[<h4>Bienvenidos sean a esta nueva emisión del podcast el episodio numero 2 de la temporada numero 1.</h4>
 <p>En esta ocasión un amigo ya conocido Christian Ramírez - @chrix2 Nos viene a platicar de su experiencia personal y la relación que encuentra entre desarrollar software y la apreciación artística. Esta platica circula por ámbitos meramente comunes para las bellas artes y las analogías que podemos hacer con la creación de las pruebas, la apreciación de las mismas, e incluso la observación sobre los sistemas legados. A pesar de que no hay una demo en código, la charla es muy interesante y puede que aquellos que aprecian el arte puedan comprenderla con más facilidad, y los que no, como el caso del entrevistador se animen a encontrar la inspiración en alguna de las bellas artes.</p>
@@ -306,10 +306,10 @@ Al concluir se platico sobre la dinámica y las dificultades que existieron, con
         
         <item>
             <title>Episodio 1 de la temporada 1 – Ceylon con @chochosmx</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/episodio-1/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-1/</link>
             <pubDate>Thu, 15 Aug 2013 01:58:28 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/episodio-1/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-1/</guid>
             <description>¡Hola que tal! Nuevo episodio de la nueva temporada de ViveCodigo la temporada 01 en esta ocasión el capitulo 01, en la cual tuvimos el gusto de entrevistar a nuestro compañero Enrique Zamudio - @chochosmx. Un gran desarrollador con muchos años de experiencia y uno de los contribuidores del lenguaje Ceylon, nos comparte como incluso a estas alturas de su carrera el sigue aprendiendo y enfrentando retos que no había enfrentado antes.</description>
             <content type="html"><![CDATA[<h4>¡Hola que tal!</h4>
 <p>Nuevo episodio de la nueva temporada de ViveCodigo la temporada 01 en esta ocasión el capitulo 01, en la cual tuvimos el gusto de entrevistar a nuestro compañero Enrique Zamudio - @chochosmx. Un gran desarrollador con muchos años de experiencia y uno de  los contribuidores del lenguaje Ceylon, nos comparte como incluso a estas alturas de su carrera el sigue aprendiendo y enfrentando retos que no había enfrentado antes.</p>
@@ -332,10 +332,10 @@ Al concluir se platico sobre la dinámica y las dificultades que existieron, con
         
         <item>
             <title>Episodio 0 de la temporada 1 - Elixir con @hiphoox</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/episodio-0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-0/</link>
             <pubDate>Thu, 01 Aug 2013 02:05:05 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/episodio-0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-0/</guid>
             <description>Hola a todos! Les traigo la nueva temporada de ViveCodigo la temporada 01 en esta ocasión el capitulo 00 en el cual entrevistamos a nuestro amigo Norberto Ortigoza - @hiphoox. Que a parte de ser un gran conocedor de ruby, smalltalk y Objective-C, tiene una carrera profesional prominente. Nos platico su trayectoria como desarrollador de software, como alguna empresas en las cuales a colaborado Sun Macrosystem, DGSCA, así como trabajos en los cuales se ha desenvuelto como administrador de Oracle, procesos, pruebas.</description>
             <content type="html"><![CDATA[<h4>Hola a todos!</h4>
 <p>Les traigo la nueva temporada de ViveCodigo la temporada 01 en esta ocasión el capitulo 00 en el cual entrevistamos a nuestro amigo Norberto Ortigoza - @hiphoox. Que a parte de ser un gran conocedor de ruby, smalltalk y Objective-C, tiene una carrera profesional prominente. Nos platico su trayectoria como desarrollador de software, como alguna empresas en las cuales a colaborado Sun Macrosystem, DGSCA, así como trabajos en los cuales se ha desenvuelto como administrador de Oracle, procesos, pruebas. También nos platica que actividades se encuentra desarrollando en la actualidad como cursos así como el curso de RubyMotion.</p>
@@ -384,10 +384,10 @@ Al concluir se platico sobre la dinámica y las dificultades que existieron, con
         
         <item>
             <title>&#39;Subversion and Git&#39; con Matthew McCullough</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/subversion-git/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/subversion-git/</link>
             <pubDate>Fri, 26 Jul 2013 02:17:35 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/subversion-git/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/subversion-git/</guid>
             <description>¡Hola a todos! En esta ocasión es un video de una platica sobre Git y el uso del repositorio SVN, en mayo 2012 en la ciudad de México realizada por Matthew McCullough(@matthewmccull). Nos habla profundamente del funcionamiento de Git y como podemos implementar el repositorio de SVN, una interesante platica ya que nos habla de comandos muy interesantes además de algunos trucos muy útiles de Git.
 Espero lo disfruten:</description>
             <content type="html"><![CDATA[<h4>¡Hola a todos!</h4>
@@ -399,10 +399,10 @@ Espero lo disfruten:</description>
         
         <item>
             <title>Podcast 12 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/podcast-12-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-12-temp0/</link>
             <pubDate>Tue, 19 Jun 2012 18:03:40 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/podcast-12-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-12-temp0/</guid>
             <description>Bienvenidos a esta nueva emisión del podcast de ViveCodigo.org, en esta ocasión tenemos el agrado de presentarles lo acontecido durante el 2do. Coding Dojo en donde resolvimos un par de ejercicios: #7 Project Euler Kata: Roman Numerals Queremos agradecer a los asistentes al Dojo por su participación y por sus resultados, y también por compartir sus soluciones con nosotros; aquí listamos a los desarrolladores del Dojo y la liga donde pueden encontrar el código que desarrollaron:</description>
             <content type="html"><![CDATA[<h4>Bienvenidos a esta nueva emisión del podcast de ViveCodigo.org, en esta ocasión tenemos el agrado de presentarles lo acontecido durante el 2do. Coding Dojo en donde resolvimos un par de ejercicios:</h4>
 <blockquote>
@@ -473,10 +473,10 @@ Espero lo disfruten:</description>
         
         <item>
             <title>Podcast 11 de la Temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/podcast-11-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-11-temp0/</link>
             <pubDate>Wed, 06 Jun 2012 10:24:36 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/podcast-11-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-11-temp0/</guid>
             <description>Bienvenidos nuevamente al podcast de ViveCodigo! En esta ocasión tuvimos la oportunidad de entrevistar a Jorge Ortíz, quien es un ingeniero que actualmente trabaja en FourSquare y ha tenido una trayectoria destacable en el mundo del desarrollo de software.
 Jorge nos platicó acerca de como ha sido su trayectoria y como fue que llego a FourSquare, también, nos platica del conjunto de tecnologías que están usando y los problemas que ha resuelto con ellas.</description>
             <content type="html"><![CDATA[<h4>Bienvenidos nuevamente al podcast de ViveCodigo!</h4>
@@ -499,10 +499,10 @@ Jorge nos platicó acerca de como ha sido su trayectoria y como fue que llego a 
         
         <item>
             <title> Workshop de Git &#43; Github en SynergyJ, charla abierta y Drinkup con @matthewmccull</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/workshop-git/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/workshop-git/</link>
             <pubDate>Tue, 01 May 2012 02:24:58 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/workshop-git/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/workshop-git/</guid>
             <description>Los sistemas de control de versiones son herramienta fundamental en cualquier proyecto de software, es por esto que a toda la comunidad de desarrolladores de cualquier plataforma, les estamos invitando asistan al evento organizado por SynergyJ el día 15 de Mayo del presente, en donde Matthew McCullough de GitHub vendrá a impartir un Workshop. Este evento es de pago y es de cupo límitado. Toda la información para registrarte la puedes encontrar en http://synergyj.</description>
             <content type="html"><![CDATA[<h4>Los sistemas de control de versiones son herramienta fundamental en cualquier proyecto de software, es por esto que a toda la comunidad de desarrolladores de cualquier plataforma, les estamos invitando asistan al evento organizado por SynergyJ el día 15 de Mayo del presente, en donde Matthew McCullough de GitHub vendrá a impartir un Workshop. Este evento es de pago y es de cupo límitado.</h4>
 <p>Toda la información para registrarte la puedes encontrar en <b target="_blank" style="color:#3eb0ef;"><a href="http://synergyj.com/git/">http://synergyj.com/git/</a></b></p>
@@ -519,10 +519,10 @@ Jorge nos platicó acerca de como ha sido su trayectoria y como fue que llego a 
         
         <item>
             <title>Episodio Final de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/episodio-final/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-final/</link>
             <pubDate>Mon, 30 Apr 2012 02:49:13 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/episodio-final/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-final/</guid>
             <description>EOS = End of Season Muchas gracias a todos los que descargaron los podcast, muchas gracias por sus comentarios y su asistencia. Gracias a los entrevistados por compartir su conocimiento, gracias a los asistentes a los Dojos por compartir su experiencia y participación, gracias a los patrocinadores y sobre todo gracias al público que nos demanda y nos hace mejores con sus comentarios.
 En esta última emisión de esta temporada nos reunimos todos para platicar un poco de nuestra línea de tiempo en el desarrollo de software y algunas otras aficiones.</description>
             <content type="html"><![CDATA[<h4>EOS = End of Season</h4>
@@ -536,10 +536,10 @@ En esta última emisión de esta temporada nos reunimos todos para platicar un p
         
         <item>
             <title>Episodio 17 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/episodio-17-t0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-17-t0/</link>
             <pubDate>Mon, 09 Apr 2012 03:01:03 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/episodio-17-t0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-17-t0/</guid>
             <description>Una gran emisión, que aunque es de audio tiene mucho que decir al respecto del framework Grails. De la voz de su creador Graeme Rocher en entrevista con nosotros, quién nos concedió el gran honor de platicar un poco con él. Respondiendo varias preguntas que le planteamos y saliéndonos un poco de un guión que daba para mucho más, sin embargo, para no extendernos y siendo sustancioso en la charla nos limitamos a que Graeme nos contestará la siguiente serie de preguntas:</description>
             <content type="html"><![CDATA[<h4>Una gran emisión, que aunque es de audio tiene mucho que decir al respecto del framework Grails. De la voz de su creador Graeme Rocher en entrevista con nosotros, quién nos concedió el gran honor de platicar un poco con él.</h4>
 <p>Respondiendo varias preguntas que le planteamos y saliéndonos un poco de un guión que daba para mucho más, sin embargo, para no extendernos y siendo sustancioso en la charla nos limitamos a que Graeme nos contestará la siguiente serie de preguntas:</p>
@@ -566,10 +566,10 @@ En esta última emisión de esta temporada nos reunimos todos para platicar un p
         
         <item>
             <title>Episodio 16 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/episodio-16-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-16-temp0/</link>
             <pubDate>Sat, 31 Mar 2012 03:05:45 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/episodio-16-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/episodio-16-temp0/</guid>
             <description>Bienvenidos sean a este nuevo episodio de ViveCodigo, casi estamos por cerrar nuestra primera temporada y queremos darles otra perspectiva del podcast. En esta ocasión nos sumergimos en una organización que nos permitió realizar algunas actividades en conjunto con los miembros de TI. Aquí inculcamos un poco de valores y prácticas ágiles a través de dinámicas que permitían al equipo concebir y experimentar un poco de los principios que les mostramos.</description>
             <content type="html"><![CDATA[<h4>Bienvenidos sean a este nuevo episodio de ViveCodigo, casi estamos por cerrar nuestra primera temporada y queremos darles otra perspectiva del podcast.</h4>
 <iframe src="https://player.vimeo.com/video/39522331?h=b061de9f5c" width="460" height="360" frameborder="0"></iframe>
@@ -582,10 +582,10 @@ En esta última emisión de esta temporada nos reunimos todos para platicar un p
         
         <item>
             <title>Podcast 15 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/podcast-15-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-15-temp0/</link>
             <pubDate>Thu, 15 Mar 2012 03:10:37 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/podcast-15-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-15-temp0/</guid>
             <description>Bienvenidos nuevamente a esta emisión de ViveCodigo.org. Previo a nuestra actividad entramos en una charla muy amena, al respecto de la adopción del Testing como técnica de programación y la necesidad de adoptarlo.
 Y en esta ocasión estamos presentando nuestro tercer #CodingDojo, en donde, de la mano de respetables desarrolladores tratamos de resolver una Kata de nombre: LCD Numbers.
 Esta Kata consiste en crear una función que me permita convertir un número entre el 0 y el 9 a su representación en LCD, sin embargo, el acercamiento que se le debe hace a este ejercicio es mediante una prueba, de tal forma que se empiece a resolver de la forma más simple y se progrese en su desarrollo mientras se sigue ejecutando dicha prueba.</description>
@@ -674,10 +674,10 @@ Código de producción: <a href="https://gist.github.com/2027144">https://gist.g
         
         <item>
             <title>Resumen del SpringIO 2012</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/resumen-springio/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/resumen-springio/</link>
             <pubDate>Thu, 08 Mar 2012 09:38:57 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/resumen-springio/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/resumen-springio/</guid>
             <description>Tuvimos la oportunidad de estar en el #SpringIO 2012 junto con otros desarrolladores muy destacados en el ecosistema Spring, Groovy y Grails. Aquí el video y toda la información desde el blog de SynergyJ.com
 Que lo disfruten como nosotros…</description>
             <content type="html"><![CDATA[<h4>Tuvimos la oportunidad de estar en el #SpringIO 2012 junto con otros desarrolladores muy destacados en el ecosistema Spring, Groovy y Grails.</h4>
@@ -689,10 +689,10 @@ Que lo disfruten como nosotros…</description>
         
         <item>
             <title>Podcast 14 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/podcast-14-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-14-temp0/</link>
             <pubDate>Wed, 22 Feb 2012 16:36:36 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/podcast-14-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-14-temp0/</guid>
             <description>Bienvenidos nuevamente, en esta ocasión es muy agradable para nosotros presentarles una entrevista en donde el tema principal es Artesanía de Software, de la mano de Agustín Ramos Fonseca(@MachinesAreUs). A lo largo de la entrevista, Agustín nos devela el verdadero sentido y concepto de la Artesanía, describe por que es importante conocerla y también profundiza en temas que la abarcan; nos comparte su experiencia al difundirla y como es que nosotros podemos percibirla.</description>
             <content type="html"><![CDATA[<h4>Bienvenidos nuevamente, en esta ocasión es muy agradable para nosotros presentarles una entrevista en donde el tema principal es Artesanía de Software, de la mano de Agustín Ramos Fonseca(@MachinesAreUs).</h4>
 <p>A lo largo de la entrevista, Agustín nos devela el verdadero sentido y concepto de la Artesanía, describe por que es importante conocerla y también profundiza en temas que la abarcan; nos comparte su experiencia al difundirla y como es que nosotros podemos percibirla.</p>
@@ -715,10 +715,10 @@ Que lo disfruten como nosotros…</description>
         
         <item>
             <title>Podcast 13 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/podcast-13-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-13-temp0/</link>
             <pubDate>Tue, 07 Feb 2012 16:42:25 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/podcast-13-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-13-temp0/</guid>
             <description>Saludos nuevamente a la comunidad de desarrolladores! En esta ocasión nos complacemos de presentarle a Andrés Gömez(@Clojure_Mexico) quién nos vino a platicar de un lenguaje soportado sobre la JVM: Clojure
 El nos comparte su experiencia desarrollando en este lenguaje, así también, platica un poco del paradigma funcional y por que es importante adoptarlo.
 A través de la demos nos muestra el conjunto de herramientas que podríamos usar para empezar a desarrollar con Clojure.</description>
@@ -749,10 +749,10 @@ A través de la demos nos muestra el conjunto de herramientas que podríamos usa
         
         <item>
             <title>Podcast 10 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/podcast-10-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-10-temp0/</link>
             <pubDate>Wed, 21 Dec 2011 10:45:41 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/podcast-10-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-10-temp0/</guid>
             <description>Solo el audio del podcast: Hola nuevamente a toda la comunidad de ViveCodigo.org y desarrolladores recién llegados!
 En esta ocasión cambiamos la actividad de nuestro podcast, en este episodio dejamos de lado las entrevistas para dar paso a un Coding Dojo, en donde, invitamos a algunos desarrolladores a participar en la resolución de algunas Coding Katas, los conceptos del Dojo y su desarrollo lo podrás encontrar en este episodio.
 Agradecemos la presencia de:</description>
@@ -797,10 +797,10 @@ Agradecemos la presencia de:</description>
         
         <item>
             <title>Podcast 9 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/podcast-9-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-9-temp0/</link>
             <pubDate>Tue, 29 Nov 2011 12:10:15 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/podcast-9-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-9-temp0/</guid>
             <description>Sólo el audio: Audio Después de un largo tiempo y en vísperas de la reunión de la comunidad de SpringHispanor y GrailsMX, tenemos el gusto de presentarles esta emisión del podcast en donde entrevistamos a Andrés Almiray, Java Champion mexicano y líder del proyecto Griffon.
 En esta ocasión Andrés nos platica de su experiencia desarrollando el framework y del mundo de las aplicaciones Desktop.
 En verdad fue un momento muy agradable para nosotros platicar con Andrés y esperemos que ustedes también lo disfruten.</description>
@@ -829,10 +829,10 @@ En verdad fue un momento muy agradable para nosotros platicar con Andrés y espe
         
         <item>
             <title>Podcast 8 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/podcast-8-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-8-temp0/</link>
             <pubDate>Wed, 17 Aug 2011 13:06:25 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/podcast-8-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-8-temp0/</guid>
             <description>Hola a todos! En esta ocasión, de forma clandestina y muy nocturna, traemos para ustedes nuestro episodio de ViveCodigo de la mano de Enrique Díaz(@nrikeDiaz) un experimentado desarrollador para la plataforma Android, que nos estará hablando de sus vivencias acerca de esta tecnología, así como, muchos tips y consejos que nos pueden ayudar al momento de querer adoptarla.
 En el screencast nos muestra LUA, un lenguaje alternativo para desarrollar en Android, dándonos la visión de que podemos tener muchas herramientas en las cuales podemos hacer apps muy buenas y creativas.</description>
             <content type="html"><![CDATA[<h4>Hola a todos!</h4>
@@ -857,10 +857,10 @@ En el screencast nos muestra LUA, un lenguaje alternativo para desarrollar en An
         
         <item>
             <title>Podcast 7 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/podcast-7-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-7-temp0/</link>
             <pubDate>Mon, 01 Aug 2011 14:10:12 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/podcast-7-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-7-temp0/</guid>
             <description>Bienvenidos nuevamente! Hemos grabado con mucho gusto el podcast con Enrique Zamudio(@chochosmx ) en donde nos habla de uno de los proyectos creados y administrados por él: jAlarms(jalarms.sourceforge.net ), además, Enrique nos transmite su experiencia desarrollando software libre y open source; también comparte con nosotros la aventura de poner su proyecto en los repositorios de Maven. Sin lugar a duda y como todos los podcast, una charla muy amena…
 Además en el screencast nos muestra como usar jAlarms con múltiples canales, bastante interesante debido a que no sólo nos muestra las aplicaciones prácticas en las cuales se pueden usar alarmas, también nos muestra un poco del manejo de Gradle( http://gradle.</description>
             <content type="html"><![CDATA[<h4>Bienvenidos nuevamente!</h4>
@@ -881,10 +881,10 @@ Además en el screencast nos muestra como usar jAlarms con múltiples canales, b
         
         <item>
             <title>Podcast 6 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/podcast-6-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-6-temp0/</link>
             <pubDate>Fri, 15 Jul 2011 15:12:50 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/podcast-6-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-6-temp0/</guid>
             <description>Hola a toda la comunidad! En esta ocasión nos complace presentarles a Daniel Zavala(@Siedrix) que nos estará hablando de Node.JS un framework Javascript para desarrollo del lado servidor. A través de la entrevista, el aclara muchos puntos acerca del modelo de programación, y profundiza en la gran utilidad que tiene el usar este tipo de herramientas, además, nos comparte su experiencia en el conjunto de tecnologías que podemos encontrar para usar Javascript y nos platica acerca de su experiencia en México como desarrollador especialista en el tema.</description>
             <content type="html"><![CDATA[<h4>Hola a toda la comunidad!</h4>
 <p>En esta ocasión nos complace presentarles a Daniel Zavala(@Siedrix) que nos estará hablando de Node.JS un framework Javascript para desarrollo del lado servidor. A través de la entrevista, el aclara muchos puntos acerca del modelo de programación, y profundiza en la gran utilidad que tiene el usar este tipo de herramientas, además, nos comparte su experiencia en el conjunto de tecnologías que podemos encontrar para usar Javascript y nos platica acerca de su experiencia en México como desarrollador especialista en el tema.</p>
@@ -919,10 +919,10 @@ Además en el screencast nos muestra como usar jAlarms con múltiples canales, b
         
         <item>
             <title>Podcast 5 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/podcast-5-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-5-temp0/</link>
             <pubDate>Sun, 03 Jul 2011 18:43:29 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/podcast-5-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-5-temp0/</guid>
             <description>Hola nuevamente!!! Nos da mucho gusto compartir con todos ustedes el tema de iOS, a través de la voz de Juan Karam(@JuanKaram), quién es el más experimentado desarrollador en esta plataforma; a lo largo de esta charla, Juan nos platica su experiencia de una forma muy amena, nos ofrece una opinión muy valiosa para quienes quieren adoptar el lenguaje sobre el cual se desarrolla, hace algunas recomendaciones para todos los desarrolladores independiente de sus herramientas de trabajo, y profundiza en su tema favorito.</description>
             <content type="html"><![CDATA[<h4>Hola nuevamente!!!</h4>
 <p>Nos da mucho gusto compartir con todos ustedes el tema de iOS, a través de la voz de Juan Karam(@JuanKaram), quién es el más experimentado desarrollador en esta plataforma; a lo largo de esta charla, Juan nos platica su experiencia de una forma muy amena, nos ofrece una opinión muy valiosa para quienes quieren adoptar el lenguaje sobre el cual se desarrolla, hace algunas recomendaciones para todos los desarrolladores independiente de sus herramientas de trabajo, y profundiza en su tema favorito.</p>
@@ -942,10 +942,10 @@ Además en el screencast nos muestra como usar jAlarms con múltiples canales, b
         
         <item>
             <title>Podcast 4 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/podcast-4-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-4-temp0/</link>
             <pubDate>Wed, 15 Jun 2011 11:28:13 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/podcast-4-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-4-temp0/</guid>
             <description>Hola a todos!!! Nos complace entregarles la quinta emisión del podcast en donde el tema principal es Testing.
 Como invitado tenemos a Christian Ramírez(@chrix2) QA Architect en Certum, durante el podcast hablamos del ecosistema de Testing, desde conceptos básicos como las características de las pruebas hasta elementos que Christian usa en su trabajo diario como Cloud Testing. En el screencast Christian nos muestra como ejecutar pruebas con Selenium y Python, en su ambiente de desarrollo local y en la nube.</description>
             <content type="html"><![CDATA[<h4>Hola a todos!!!</h4>
@@ -972,10 +972,10 @@ Como invitado tenemos a Christian Ramírez(@chrix2) QA Architect en Certum, dura
         
         <item>
             <title>Podcast 3 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/podcast-3-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-3-temp0/</link>
             <pubDate>Tue, 31 May 2011 11:37:57 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/podcast-3-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-3-temp0/</guid>
             <description>En esta ocasión nos servimos de un tema para las aplicaciones en el navegador: &amp;ldquo;Estándares Web&amp;rdquo;, en donde Luis Hernández(mejor identificado como @juwe) nos habla de su experiencia como diseñador y desarrollador.
 Hablamos de la importancia de conocer las bases fundamentales del desarrollo web: html, css y javascript.
 Nuevamente les haremos entrega de este podcast en dos versiones:
@@ -1004,10 +1004,10 @@ Adicionalmente, ponemos a su disposición los archivos de video de las dos parte
         
         <item>
             <title>Podcast 2 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/podcast-2-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-2-temp0/</link>
             <pubDate>Wed, 18 May 2011 12:29:47 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/podcast-2-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-2-temp0/</guid>
             <description>Hola a todos en la comunidad!!! Me es grato anunciarles que ya tenemos publicado esta nueva edición del podcast, en donde, tenemos como invitado de honor a Julio Carlos Sánchez(@thegeekinside), que nos estará hablando del lenguaje de programación Scala. Además, comentaremos algunas notas que recientemente causaron revuelo en el mundo Scala.
 En esta ocasión, por la duración del podcast hemos puesto el episodio en dos partes…
 Les dejamos las ligas que se comentaron en la charla y en el videocast:</description>
@@ -1079,10 +1079,10 @@ Les dejamos las ligas que se comentaron en la charla y en el videocast:</descrip
         
         <item>
             <title>Podcast 1 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/podcast-1-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-1-temp0/</link>
             <pubDate>Thu, 05 May 2011 13:30:22 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/podcast-1-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-1-temp0/</guid>
             <description>Primero, gracias a todos ustedes por sus comentarios tanto en este portal, como en el twitter y algunos otros sitios de comunidades distintas… El archivo del podcast lo pueden descargar dede aquí o bien se pueden suscribir al feed…
 Las notas que comentamos en esta ocasión son:
 Agile is about Collaboration and Cultivation Culture http://www.agilitrix.com/2011/03/agile-culture-is-all-about-people/
@@ -1166,10 +1166,10 @@ Groovy 1.8.0 http://docs.codehaus.org/display/GROOVY/Groovy+1.8+release+notes#Gr
         
         <item>
             <title>Podcast 0 de la temporada 0</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/podcast-0-temp0/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-0-temp0/</link>
             <pubDate>Thu, 21 Apr 2011 13:52:01 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/podcast-0-temp0/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/podcast-0-temp0/</guid>
             <description>En esta primera emisión les damos la más cordial bienvenida a este proyecto… Las notas que comentamos durante el podcast son las siguientes:
 Ceylon JVM Language http://www.infoq.com/news/2011/04/ceylon http://devstonez.wordpress.com/2011/04/13/introducing-the-ceylon-project-gavin-king-presentation-at-qcon-beijing-2011/
 Cloud Foundry for Spring Developers http://blog.springsource.com/2011/04/12/cloud-foundry-for-spring-developers http://blog.springsource.com/2011/04/12/launching-cloud-foundry/
@@ -1222,10 +1222,10 @@ Se pueden suscribir al feed… o descargarlo directamente desde aquí… aquí</
         
         <item>
             <title>Bienvenido</title>
-            <link>https://stellular-malasada-5a5370.netlify.app/posts/bienvenido/</link>
+            <link>https://blog.makingdevs.com/viva_codigo_public/posts/bienvenido/</link>
             <pubDate>Wed, 13 Apr 2011 14:41:30 -0500</pubDate>
             
-            <guid>https://stellular-malasada-5a5370.netlify.app/posts/bienvenido/</guid>
+            <guid>https://blog.makingdevs.com/viva_codigo_public/posts/bienvenido/</guid>
             <description>Te damos la más cordial bienvenida a este nuevo proyecto… La intención de este podcast es seguir contribuyendo como lo hemos venido haciendo con proyectos anteriores, pero dándole un toque extra que poco a poco fuimos aterrizando.
 Pero, ¿qué podrás encontrar en este proyecto?
 Simple, todo lo relacionado al desarrollo de software, desde lenguajes hasta técnicas, pasando por frameworks y prácticas, y en nuestro caso muy particular orientado a la plataforma Java, sin embargo, no dejamos de lado otro conjunto de herramientas que un desarrollador podría ocupar, que son indispensables y complementarios en los proyectos en los que trabajamos diariamente, y que tal vez tu también ocupas o podrías ocupar…</description>
